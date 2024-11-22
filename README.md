@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## Program:
  ```
 Program to create an Option Menu
-Developed by: Kaviyarasu K
-Register Number : 212222040075
+Developed by: Krishnakumar A
+Register Number : 212222040083
 ```
 
 ## MainActivity.java:
